@@ -1,0 +1,9 @@
+Fuzz libexif until you have a few unique crashes
+- parallelize it this time
+
+Triage the crashes to find a PoC for each vulnerability
+
+
+Fix the issues
+
+
